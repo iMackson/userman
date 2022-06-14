@@ -1,7 +1,10 @@
+## Installation
 Clone repo
 Create a virtual environment: e.g virtualenv env
 Activate virtual environment: e.g source env/bin/activate
 Install requirements from requirements.txt file: pip3 install -r requirements.txt
+
+## Running APIs
 Go into code folder: cd code 
 Run flask app: python3 app.py
 Test endpoints using postman.
