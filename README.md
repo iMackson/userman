@@ -11,4 +11,3 @@ Test endpoints using postman.
 Note: You must perform authentication as all operations require request to be authenticated and token set as header.
  a. Register with the /register endpoint
  b. Sign in with /auth endpoint
-
